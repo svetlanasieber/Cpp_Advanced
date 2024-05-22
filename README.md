@@ -13,5 +13,5 @@
 
 ## 🏆 Evaluation
 
-- **Platform**: All tasks found in this repository are assessed through the [SoftUni Judge system](https://judge.org).
+- **Platform**: All tasks found in this repository are assessed through the [SoftUni Judge system](https://judge.softuni.org/)).
 - **Grading**: Tasks are graded based on functionality, code quality, and adherence to requirements.
